@@ -1,3 +1,3 @@
 # PythonClass
 
-# Yhis is my first Python Class at Alliant International University
+# This is my first Python Class at Alliant International University
